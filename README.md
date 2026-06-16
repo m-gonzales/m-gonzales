@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Myca, A fresh BSIT graduate and aspiring developer who enjoys learning new technologies and building projects to improve my skills.
+
+🌱 Currently exploring software development, web technologies, and game development.
+
+⚡TOOLS AND TECH
+- Java, PHP, Javascript
+-  Unity 3D, Roblox Studio 
+- Figma
 <!--
 **m-gonzales/m-gonzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
